@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-git+https://github.com/KurimuzonAkuma/pyrogram
+https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
 TgCrypto
 pyromod==1.5
 # --- For-Database ------------ #
